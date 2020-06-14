@@ -1,10 +1,10 @@
-Welcome to lw cloud
+Welcome
 <br/>
 
 <pre>
 <?php
 
-print "ifconfig" ;
+print "hope you have amazing day" ;
 
 ?>
 </pre>
